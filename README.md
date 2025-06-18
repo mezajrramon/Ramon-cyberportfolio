@@ -1,10 +1,10 @@
-Freelancer Jekyll theme  
-=========================
+RamonMezaJr-Cybersecurity-Portfolio 
+> Modul 1-8 are inspired by Google. Please visit this [link](https://www.coursera.org/google-certificates/cybersecurity-certificate) for further information. More are to come, stay tuned!
 
-Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
+> Please make sure you include the original MIT license.
 
-## How to use
- - Place a image in `/img/portfolio/`
+## Professional Statements
+Hello! Thank you for coming here. I'd love to chat with people☕.
  - Replace `your-email@domain.com` in `_config.yml` with your email address. Refer to [formspree](http://formspree.io/) for more information.
  - Create posts to display your projects. Use the follow as an example:
 ```txt
