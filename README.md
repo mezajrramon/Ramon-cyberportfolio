@@ -5,28 +5,10 @@ RamonMezaJr-Cybersecurity-Portfolio
 
 ## Professional Statements
 Hello! Thank you for coming here. I'd love to chat with people☕.
- - Replace `your-email@domain.com` in `_config.yml` with your email address. Refer to [formspree](http://formspree.io/) for more information.
- - Create posts to display your projects. Use the follow as an example:
-```txt
----
-layout: default
-modal-id: 1
-date: 2020-01-18
-img: cabin.png
-alt: image-alt
-project-date: January 2020
-client: The Client
-category: Web Development
-description: The description of the project
 
----
-```
-
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.com/freelancer-theme)
-
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
-
----------
-For more details, read the [documentation](http://jekyllrb.com/)
+𝑺𝒖𝒎𝒎𝒂𝒓𝒚: 
+* Passionate about Customer Service, IT Infrastructure, Networking, Artificial Intelligence, and Cybersecurity.
+* Google Cybersecurity certificates graduate.
+* Experience in application support, logistics and retail, technical support,customer service, and healthcare.
+* Time management and managerial experience, controling teams and keeping quota with retail background.
+* Attention to detail and deadline oriented with experience in healthcare settings. 
